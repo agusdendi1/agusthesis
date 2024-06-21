@@ -1,5 +1,5 @@
 # agusthesis
 
-# Install ADCIRC SWAN
+## Install ADCIRC SWAN
 Download ADCIRC
 Compile ADCIRC
