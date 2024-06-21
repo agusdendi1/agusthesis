@@ -19,8 +19,6 @@ untuk HPC menggunakan library dari intel
 compiler GNU(serial/parallel) (C:gcc/mpicc C++:g++/mpicxx fortran:gfortran/mpif90)
 compiler intel(serial/parallel) (C:icc/mpiicc C++:icpc/mpiicpc fortran: ifort/mpiifort)
 
-
-
 ## Install ADCIRC SWAN
 
 # posisi direktori di $home
@@ -30,6 +28,8 @@ compiler intel(serial/parallel) (C:icc/mpiicc C++:icpc/mpiicpc fortran: ifort/mp
 git clone https://github.com/adcirc/adcirc.git
 
 cd adcirc
+
+cd thirdparty
 
 ## install wgrib
 
