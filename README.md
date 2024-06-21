@@ -18,7 +18,8 @@ untuk HPC menggunakan library dari intel
 
 
 ## Install ADCIRC SWAN
-## Download ADCIRC . Dokumentasi di https://wiki.adcirc.org/Main_Page
+
+# Download ADCIRC . Dokumentasi di https://wiki.adcirc.org/Main_Page
 
 git clone https://github.com/adcirc/adcirc.git
 
